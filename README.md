@@ -1,6 +1,6 @@
 # Cleaning Service Agency
 
-Welcome to the official website repository for our Cleaning Service Agency! This project showcases a professional cleaning service agency, offering a range of cleaning solutions for homes and businesses. The website is built using HTML, CSS, JavaScript, and Bootstrap to provide a responsive and user-friendly experience for our clients.
+Welcome to the repository for Cleaning Service Agency! This project showcases a professional cleaning service agency, offering a range of cleaning solutions for homes and businesses. The website is built using HTML, CSS, JavaScript, and Bootstrap to provide a responsive and user-friendly experience for our clients.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cleaning-service-agency.git
+   git clone https://github.com/StefanSirkovic/cleaning-service-agency.git
 
 2. Navigate to the project directory:
    cd cleaning-service-agency
